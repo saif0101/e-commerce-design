@@ -1,0 +1,16 @@
+.container{
+    margin-bottom:50px ;
+}
+.carousel-item{
+  background-color: whitesmoke;
+  padding: 20px 40px;
+
+}
+.buy-button{
+  background-image: linear-gradient(45deg, rgb(49, 46, 46),black);
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+}
+
