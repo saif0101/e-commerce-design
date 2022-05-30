@@ -1,5 +1,5 @@
 .container{
-    margin-bottom:50px ;
+    margin-bottom:100px ;
 }
 .carousel-item{
   background-color: whitesmoke;
@@ -12,5 +12,25 @@
   padding: 10px 20px;
   border-radius: 5px;
   color: white;
+}
+.card{
+  border: none;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px gray;
+}
+.card-body{
+  text-align: center;
+}
+.card-footer{
+  text-align: center;
+  border: none;
+  background-color: white;
+}
+.see-all{
+  color:orange;
+  
+}
+.products{
+  margin-bottom:20px ;
 }
 
