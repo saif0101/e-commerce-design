@@ -33,4 +33,9 @@
 .products{
   margin-bottom:20px ;
 }
+.card{
+  height: 200px;
+  width: 200px;
+  position: center;
+}
 
